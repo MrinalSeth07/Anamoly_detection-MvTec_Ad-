@@ -1,6 +1,3 @@
-Got it — you want this turned into a **clean GitHub README-style project description**, not a report section. Below is a polished, developer-friendly version you can paste directly into your repository’s `README.md`. It’s concise, scannable, and written in the style GitHub projects expect.
-
----
 
 # 🔍 Classifier-Guided Anomaly Detection with CAE (MVTec AD)
 
